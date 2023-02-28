@@ -1,5 +1,7 @@
 import React from 'react';
-import {BrowserRouter, Switch, Route} from 'react-router-dom';
+import { Route } from 'react-router-dom';
+import { Switch } from 'react-router-dom';
+import {BrowserRouter} from 'react-router-dom';
 
 import Main from './pages/Main';
 import Repositorio from './pages/Repositorio';
